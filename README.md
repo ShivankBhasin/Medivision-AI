@@ -18,27 +18,21 @@ Medivision AI is an intelligent medical prescription processing system that extr
 ## 🧠 System Architecture
 
 User Input (Image/PDF)
-
     ↓
 
 Image Processing (OpenCV)
-
     ↓
 
 Multi-OCR (EasyOCR + Tesseract + PaddleOCR)
-
     ↓
 
 Text Fusion
-
     ↓
 
 Rule-Based Extraction
-
     ↓
 
 LLM Post-Processing (Groq)
-
     ↓
 
 Structured JSON Output
