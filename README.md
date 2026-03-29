@@ -114,7 +114,7 @@ python test_ocr.py
 - Confidence scoring based on OCR agreement
 
 ### 📊 Impact
-⏱️ ~80% reduction in processing time
-💰 Reduced manual data entry cost
-📉 Error rate reduced significantly
-📈 Improved healthcare workflow efficiency
+- ⏱️ ~80% reduction in processing time
+- 💰 Reduced manual data entry cost
+- 📉 Error rate reduced significantly
+- 📈 Improved healthcare workflow efficiency
