@@ -71,23 +71,26 @@ python -m venv venv311
 ```
 
 ### 3️⃣ Install dependencies
-
+```bash
 pip install opencv-python numpy pillow easyocr pytesseract paddleocr paddlepaddle python-dotenv groq PyMuPDF
-
+```
 ### 4️⃣ Install Tesseract (Required)
-
+```bash
 Download:
 👉 https://github.com/tesseract-ocr/tesseract
-
+```
 ### 5️⃣ Setup Environment Variables
 
 Create a .env file:
+```bash
 GROQ_API_KEY=your_api_key_here
-
+```
 ### ▶️ Usage
 
 Run the system:
+```bash
 python test_ocr.py
+```
 
 ### 🛠️ Technologies Used
 - OpenCV → Image preprocessing
